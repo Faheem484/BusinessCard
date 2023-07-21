@@ -1,0 +1,36 @@
+body{
+    margin:20px;
+}
+.main{
+    display:block;
+    width:40%;
+    margin : 100px auto;
+    
+    display:flex;
+    padding: 20px;
+    background:#C0CBCA;
+    border-bottom:5px solid #4B4E4E;
+
+    
+}
+
+.logo{
+    width:200px;
+   
+    border-radius:48px;
+    background:#C0CBCA;
+
+
+}
+
+.card{
+    margin:0px 10px 0px 10px;
+    padding: 0px 20px 0px 20px;
+    
+    font-family:verdana;
+    color:black;
+    text-align:center;
+    
+
+   
+}
